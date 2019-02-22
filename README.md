@@ -3,11 +3,11 @@
 
 I enjoy personality tests and learning about myself, and yes I do understand that these sorts of tests aren't terribly rigorous, but they do provide thinking points:
 
-Myers-Briggs - (I,E)NFP - So I'm either a [Campaigner](https://www.16personalities.com/enfp-personality) or a [Mediator](https://www.16personalities.com/infp-personality), depending on the day, both of which deal largely with the human side of things, always looking for connectedness.  Lately I've tended much more to the I side of things.
+**Myers-Briggs** - (I,E)NFP - So I'm either a [Campaigner](https://www.16personalities.com/enfp-personality) or a [Mediator](https://www.16personalities.com/infp-personality), depending on the day, both of which deal largely with the human side of things, always looking for connectedness.  Lately I've tended much more to the I side of things.
 
-DISC - [S (Steadiness)](https://www.discprofile.com/what-is-disc/overview/steadiness/) - I don't have recessives on this one, just straight S.  What does that mean? It means I'm calm, I am motivated by the story more than the outcome, and I need time to formulate answers/opinions and require context.  If you want my time, please include the "why" so that I don't fret. 
+**DISC** - [S (Steadiness)](https://www.discprofile.com/what-is-disc/overview/steadiness/) - I don't have recessives on this one, just straight S.  What does that mean? It means I'm calm, I am motivated by the story more than the outcome, and I need time to formulate answers/opinions and require context.  If you want my time, please include the "why" so that I don't fret. 
 
-Strengths Finder - 
+**Strengths Finder** - 
   1. Adaptability - _People exceptionally talented in the Adaptability theme prefer to go with the flow. They tend to be “now” people who take things as they come and discover the future one day at a time._
   2. Connectedness -  _People exceptionally talented in the Connectedness theme have faith in the links among all things. They believe there are few coincidences and that almost every event has meaning._
   3. Developer - _People exceptionally talented in the Developer theme recognize and cultivate the potential in others. They spot the signs of each small improvement and derive satisfaction from evidence of progress._
@@ -16,17 +16,17 @@ Strengths Finder -
 
 ### so what does that mean?
 
-I love good conversation and have difficulties with small talk because it's not thought provoking, however I recognize the social importance of it as a gateway and "litmus test" to determine if deeper conversation should proceed. 
+**Tell me the story** of why we are doing something and how it relates to someone and I'm far more likely to buy in. "Francine needs to deploy a new thing so that this thing works correctly, can you help out?" works far better than "hey, do this thing." 
 
-I lean hard on Empathy and Connectedness in my professional and personal lives. This often makes it difficult for me to not help out people/teams when there are issues, even if they are out of my hands.
+**I lean hard on Empathy and Connectedness** in my professional and personal lives. This often makes it difficult for me to not help out people/teams when there are issues and do my best to guide people to solutions or at least resources that can help, even if I'm not able to solve it myself.
 
-Adaptability is more of weakness for me as negative patterns are easily over-looked and become "meh, that's how it is" unless acted upon asap. "out of sight out of mind" is very real for me. It also means that I'm not a terribly great future planner as I take things day by day; see also INFP. 
+**Create tickets, or ask me to create them** so that I can bring tasks back to my attention. Adaptability means that I need to do _something_ with important information immediately, lest it falls off of my radar. 
 
-Please don't surprise me at work with meetings if it can be avoided. Give me time and context to prepare.  
+**Give me time and context to prepare for meetings.**  Doing so will allow me to continue focusing on other things instead of running through every possible conversation and reason for the meeting.   
 
-Related, you might not get my best answers immediately as I run every conversation around in my head for an agonizingly long time. 
+**Follow up with me later** because you might not get my best answers immediately as I run every conversation around in my head for an agonizingly long time.  Giving me time to process will result in different, and usually better answers.
 
-I require feedback and inclusion.  Feedback is more than "this is good, this is bad", it's a tool that we can use to build connection and trust.
+**I require feedback and inclusion.**  Feedback is more than "this is good/this is bad", it's a tool that we can use to build connection and trust.  "thanks for doing that", "we don't do things that way, try this way", etc.
 
 ## Personal things
 
@@ -40,7 +40,7 @@ I enjoy reading about politics and ideologies that exist outside of the modern W
 
 I'm a father and husband, and together w/ my wife we have 2 kiddos, so work life balance is very important to me, with life always winning.  Not to say that I won't work hard or stay a little late, but it's on my own terms and thus for me to decide, not you to dictate.
 
-Vegan and Straight Edge. Both of these were more or less born out of empathy for me. I do my best to not preach or be a jerk about either of them. They are my personal decisions.
+Vegan and Straight Edge. Both of these were more or less born out of empathy for me. I do my best to not preach or be a jerk about either of them. They are my personal decisions, and I'm always interested in discussing them.
 
 I play a lot of old school Magic the Gathering. I run a website about it, http://geoCitiesofBrass.com, and am continually working to foster and grow a community in the Greater Toronto Area.
 
