@@ -5,7 +5,7 @@ I enjoy personality tests and learning about myself, and yes I do understand tha
 
 Myers-Briggs - *(I,E)NFP* - So I'm either a Campaigner or a Mediator, depending on the day, both of which deal largely with the human side of things, always looking for connectedness.  Lately I've tended much more to the I side of things.
 
-DISC - S *(Steadiness)* - I don't have recessives on this one, just straight S.  What does that mean? It means I'm calm, I am motivated by the story more than the outcome, and I need time to formulate answers/opinions and require context.  If you want my time, please include the "why" so that I don't panic. 
+DISC - S *(Steadiness)* - I don't have recessives on this one, just straight S.  What does that mean? It means I'm calm, I am motivated by the story more than the outcome, and I need time to formulate answers/opinions and require context.  If you want my time, please include the "why" so that I don't fret. 
 
 Strengths Finder - 
   1. *Adaptability* - _People exceptionally talented in the Adaptability theme prefer to go with the flow. They tend to be “now” people who take things as they come and discover the future one day at a time._
@@ -29,9 +29,9 @@ These are difficult to detangle from professional as I've realized that not bein
 
 As is evident from irl meeting, I'm interested in body modification, primarily approaching it from cultural and ritual curiousity than from artistic endeavor nowadays. I'm always down to talk human body and the "strange" things that we do to them for vanity or inclusion or identity or what have you.  Going highly visible with tattoos helped me to "become" a complete person in my professional career as I could no longer hide this aspect of me, so I had to embrace it and you either get me or you don't.
 
-I enjoy reading about politics and ideologies that exist outside of the modern Western very narrow views, and will gladly engage in conversations about all sorts of taboo topics because of this. I love seeing the other side and am fairly adept at understanding other viewpoints even if I don't agree with them, and am happy to learn more about them (see also Mediator above).  
+I enjoy reading about politics and ideologies that exist outside of the modern Western, very narrow, spectrums, and will gladly engage in conversations about all sorts of taboo topics because of this. I love seeing the other side and am fairly adept at understanding other viewpoints even if I don't agree with them, and am happy to learn more about them (see also Mediator above).  
 
-I'm a father and together w/ my wife we have 2 kiddos, so work life balance is very important to me, with life always winning.  Not to say that I won't work hard or stay a little late, but it's on my own terms and thus for me to decide, not you to dictate.
+I'm a father and husband, and together w/ my wife we have 2 kiddos, so work life balance is very important to me, with life always winning.  Not to say that I won't work hard or stay a little late, but it's on my own terms and thus for me to decide, not you to dictate.
 
 Vegan and Straight Edge. Both of these were more or less born out of empathy for me. I do my best to not preach or be a jerk about either of them. They are my personal decisions.
 
