@@ -3,16 +3,16 @@
 
 I enjoy personality tests and learning about myself, and yes I do understand that these sorts of tests aren't terribly rigorous, but they do provide thinking points:
 
-Myers-Briggs - *(I,E)NFP* - So I'm either a Campaigner or a Mediator, depending on the day, both of which deal largely with the human side of things, always looking for connectedness.  Lately I've tended much more to the I side of things.
+Myers-Briggs - (I,E)NFP - So I'm either a [Campaigner](https://www.16personalities.com/enfp-personality) or a [Mediator](https://www.16personalities.com/infp-personality), depending on the day, both of which deal largely with the human side of things, always looking for connectedness.  Lately I've tended much more to the I side of things.
 
-DISC - S *(Steadiness)* - I don't have recessives on this one, just straight S.  What does that mean? It means I'm calm, I am motivated by the story more than the outcome, and I need time to formulate answers/opinions and require context.  If you want my time, please include the "why" so that I don't fret. 
+DISC - [S (Steadiness)](https://www.discprofile.com/what-is-disc/overview/steadiness/) - I don't have recessives on this one, just straight S.  What does that mean? It means I'm calm, I am motivated by the story more than the outcome, and I need time to formulate answers/opinions and require context.  If you want my time, please include the "why" so that I don't fret. 
 
 Strengths Finder - 
-  1. *Adaptability* - _People exceptionally talented in the Adaptability theme prefer to go with the flow. They tend to be “now” people who take things as they come and discover the future one day at a time._
-  2. *Connectedness* -  _People exceptionally talented in the Connectedness theme have faith in the links among all things. They believe there are few coincidences and that almost every event has meaning._
-  3. *Developer* - _People exceptionally talented in the Developer theme recognize and cultivate the potential in others. They spot the signs of each small improvement and derive satisfaction from evidence of progress._
-  4. *Empathy* - _People exceptionally talented in the Empathy theme can sense other people’s feelings by imagining themselves in others’ lives or situations._
-  5. *Intellection* - _People exceptionally talented in the Intellection theme are characterized by their intellectual activity. They are introspective and appreciate intellectual discussions._
+  1. Adaptability - _People exceptionally talented in the Adaptability theme prefer to go with the flow. They tend to be “now” people who take things as they come and discover the future one day at a time._
+  2. Connectedness -  _People exceptionally talented in the Connectedness theme have faith in the links among all things. They believe there are few coincidences and that almost every event has meaning._
+  3. Developer - _People exceptionally talented in the Developer theme recognize and cultivate the potential in others. They spot the signs of each small improvement and derive satisfaction from evidence of progress._
+  4. Empathy - _People exceptionally talented in the Empathy theme can sense other people’s feelings by imagining themselves in others’ lives or situations._
+  5. Intellection - _People exceptionally talented in the Intellection theme are characterized by their intellectual activity. They are introspective and appreciate intellectual discussions._
 
 ### so what does that mean?
 
@@ -28,6 +28,8 @@ I require feedback and inclusion.  Feedback is more than "this is good, this is 
 These are difficult to detangle from professional as I've realized that not being myself in my professional life causes me large amounts of stress and difficulty. So, I'm me in most situations. 
 
 As is evident from irl meeting, I'm interested in body modification, primarily approaching it from cultural and ritual curiousity than from artistic endeavor nowadays. I'm always down to talk human body and the "strange" things that we do to them for vanity or inclusion or identity or what have you.  Going highly visible with tattoos helped me to "become" a complete person in my professional career as I could no longer hide this aspect of me, so I had to embrace it and you either get me or you don't.
+
+I'm a big Star Wars fan, ever since childhood. I used to collect Kenner action figures as a kid and spent countless hours at garage sales and flea markets trying to find the missing pieces of my collection.  As an adult, my love has shifted into vintage prop recreations, so I enjoy finding vintage camera flashtubes that match what were used in The Original Trilogy and adding the bits and pieces to make them into lightsaber hilts. I've also dabbled in the [Open Source hardware for lightsabers](https://github.com/Protonerd/FX-SaberOS/wiki/Introduction) (note that that code is not mine, it's what I've used on Arduino to power my sabers) to add LEDs and sounds to them, but that's been a bit slow lately.
 
 I enjoy reading about politics and ideologies that exist outside of the modern Western, very narrow, spectrums, and will gladly engage in conversations about all sorts of taboo topics because of this. I love seeing the other side and am fairly adept at understanding other viewpoints even if I don't agree with them, and am happy to learn more about them (see also Mediator above).  
 
