@@ -17,10 +17,15 @@ Strengths Finder -
 ### so what does that mean?
 
 I love good conversation and have difficulties with small talk because it's not thought provoking, however I recognize the social importance of it as a gateway and "litmus test" to determine if deeper conversation should proceed. 
+
 I lean hard on Empathy and Connectedness in my professional and personal lives. This often makes it difficult for me to not help out people/teams when there are issues, even if they are out of my hands.
+
 Adaptability is more of weakness for me as negative patterns are easily over-looked and become "meh, that's how it is" unless acted upon asap. "out of sight out of mind" is very real for me. It also means that I'm not a terribly great future planner as I take things day by day; see also INFP. 
+
 Please don't surprise me at work with meetings if it can be avoided. Give me time and context to prepare.  
+
 Related, you might not get my best answers immediately as I run every conversation around in my head for an agonizingly long time. 
+
 I require feedback and inclusion.  Feedback is more than "this is good, this is bad", it's a tool that we can use to build connection and trust.
 
 ## Personal things
