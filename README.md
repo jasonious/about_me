@@ -5,7 +5,7 @@ I enjoy personality tests and learning about myself, and yes I do understand tha
 
 **Myers-Briggs** - (I,E)NFP - So I'm either a [Campaigner](https://www.16personalities.com/enfp-personality) or a [Mediator](https://www.16personalities.com/infp-personality), depending on the day, both of which deal largely with the human side of things, always looking for connectedness.  Lately I've tended much more to the I side of things.
 
-**DISC** - [S (Steadiness)](https://www.discprofile.com/what-is-disc/overview/steadiness/) - I don't have recessives on this one, just straight S.  What does that mean? It means I'm calm, I am motivated by the story more than the outcome, and I need time to formulate answers/opinions and require context.  If you want my time, please include the "why" so that I don't fret. 
+**[DISC](https://www.axiomsoftware.com/disc/interpretations/interactive-guide-to-disc-profile-interpretation.php)** - [S (Steadiness)](https://www.discprofile.com/what-is-disc/overview/steadiness/) - I don't have recessives on this one, just straight S.  What does that mean? It means I'm calm, I am motivated by the story more than the outcome, and I need time to formulate answers/opinions and require context.  If you want my time, please include the "why" so that I don't fret. 
 
 **Strengths Finder** - 
   1. Adaptability - _People exceptionally talented in the Adaptability theme prefer to go with the flow. They tend to be “now” people who take things as they come and discover the future one day at a time._
